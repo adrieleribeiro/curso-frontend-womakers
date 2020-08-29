@@ -1,4 +1,4 @@
-Curso de Frontend WoMakersCode
+Curso de Frontend Online WoMakersCode
 
 > Primeira edição
 
